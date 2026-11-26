@@ -83,16 +83,24 @@ Episodes downloaded through this API, verified end to end:
 
 | Episode | File | Duration | Format |
 |---------|------|----------|--------|
-| Naruto Season 1 Episode 1 (original series, Hindi dub) | `Naruto S01E01 [RareToonsIndia].mkv` | 23:25 | Matroska / HEVC + Opus, ~188 MB |
-| Naruto Shippuden Season 1 Episode 1 (Hindi dub) | `Naruto Shippuden S01E01 in Hindi.mkv` | 23:13 | Matroska / HEVC + Opus, ~190 MB |
+| Naruto Season 1 Episode 1 (original series, Hindi dub) | `Naruto S01E01 [RareToonsIndia].mkv` | 23:25 | Matroska / HEVC 1440x1080 + Opus, ~188 MB |
+| Naruto Shippuden Season 1 Episode 1 (Hindi dub) | `Naruto Shippuden S01E01 in Hindi.mkv` | 23:13 | Matroska / HEVC 1452x1072 + Opus, ~190 MB |
 
 The episode files themselves are **not** redistributed here — only the stills below.
 
 ![Naruto S1E1 and Shippuden S1E1 frames](media/preview.jpg)
 
-| Naruto S1E1 | Naruto Shippuden S1E1 |
+| Naruto S01E01 - 03:00 | Naruto Shippuden S01E01 - 05:00 |
 |---|---|
-| ![Naruto S1E1](media/naruto-original-s1e1-frame.png) | ![Naruto Shippuden S1E1](media/naruto-shippuden-s1e1-frame.png) |
+| ![Naruto S01E01 at 03:00](media/naruto-s01e01-003m00.png) | ![Naruto Shippuden S01E01 at 05:00](media/naruto-shippuden-s01e01-005m00.png) |
+
+Still frames taken straight from the two episode files:
+
+| Naruto S01E01 | Naruto Shippuden S01E01 |
+|---|---|
+| ![Naruto S01E01 at 00:45](media/naruto-s01e01-000m45.png) | ![Naruto Shippuden S01E01 at 01:00](media/naruto-shippuden-s01e01-001m00.png) |
+| ![Naruto S01E01 at 07:00](media/naruto-s01e01-007m00.png) | ![Naruto Shippuden S01E01 at 10:00](media/naruto-shippuden-s01e01-010m00.png) |
+| ![Naruto S01E01 at 11:00](media/naruto-s01e01-011m00.png) | ![Naruto Shippuden S01E01 at 15:00](media/naruto-shippuden-s01e01-015m00.png) |
 
 See [`media/README.md`](media/README.md) for the full frame list and [`DISCLAIMER.md`](DISCLAIMER.md)
 for ownership and usage terms.
