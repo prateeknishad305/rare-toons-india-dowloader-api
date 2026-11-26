@@ -1,3 +1,9 @@
+> **Disclaimer:** This repository hosts the Rare Toons India downloader API **source code** and a
+> few **screenshots only**. It does not host, mirror or redistribute any episode file, and it does
+> not claim any ownership of *Naruto* or its characters. Ownership, usage terms and removal
+> requests are set out in [DISCLAIMER.md](DISCLAIMER.md). Please read it before using or sharing
+> anything from this repository.
+
 # rare-toons-india-dowloader-api
 === RareToons Downloader API ===
 Contributors: raretoons
@@ -69,3 +75,24 @@ Yes. Point it at `https://www.rareanimes.foo/wp-json/rai/v1`, send your key, and
 
 = 1.0.0 =
 * First release.
+
+
+## Screenshots
+
+Episodes downloaded through this API, verified end to end:
+
+| Episode | File | Duration | Format |
+|---------|------|----------|--------|
+| Naruto Season 1 Episode 1 (original series, Hindi dub) | `Naruto S01E01 [RareToonsIndia].mkv` | 23:25 | Matroska / HEVC + Opus, ~188 MB |
+| Naruto Shippuden Season 1 Episode 1 (Hindi dub) | `Naruto Shippuden S01E01 in Hindi.mkv` | 23:13 | Matroska / HEVC + Opus, ~190 MB |
+
+The episode files themselves are **not** redistributed here — only the stills below.
+
+![Naruto S1E1 and Shippuden S1E1 frames](media/preview.jpg)
+
+| Naruto S1E1 | Naruto Shippuden S1E1 |
+|---|---|
+| ![Naruto S1E1](media/naruto-original-s1e1-frame.png) | ![Naruto Shippuden S1E1](media/naruto-shippuden-s1e1-frame.png) |
+
+See [`media/README.md`](media/README.md) for the full frame list and [`DISCLAIMER.md`](DISCLAIMER.md)
+for ownership and usage terms.
